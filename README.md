@@ -477,7 +477,7 @@
 | [词云机器人](https://t.me/iiWordCloudBot)                  | 受API限制，授予管理员后，机器人才能接收到聊天文本，为了安全，您可以将所有权限关闭 |
 | [流媒体解锁测试](https://t.me/stairunlock_test_bot)       | 流媒体解锁测试                                               |
 | [PremiumCounterBot](https://t.me/PremiumCounterBot)       | 一个计算群内TelegramPremium用户占比的机器人                  |
-| [UserMetaBot](https://t.me/UserMeta_Bot)                  | 统计群内每天活跃成员，需要添加机器人为群管理员。             |
+| [百度大数据](https://t.me/baidubigdata_bot)                  | 中文群组/频道搜索机器人。             |
 
 
 
